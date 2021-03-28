@@ -10,7 +10,6 @@ Plese download the the datasets `GlobalLandTemperaturesByCity.csv​`,`lobalLand
     ├── data                    # please add input data
     ├── output                  # contains generate outputs
     ├── analysis                # contains the scripts for generating the solution
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
     └── models.py               
     └── README.md
 
